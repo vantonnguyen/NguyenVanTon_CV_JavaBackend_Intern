@@ -10,5 +10,6 @@ Nguyễn Văn Tôn <br>
 SĐT: 0814 365 690 <br>
 Email: vantonnguyen2004@gmail.com <br>
 
-![NguyenVanTon_CV_JavaBackend_Intern_pages-to-jpg-0001](https://github.com/user-attachments/assets/ed4b0725-59b0-4b7f-a117-829c086dfc38)
+![NguyenVanTon_CV_JavaBackend_Intern](https://github.com/user-attachments/assets/4256abd8-ef74-4c00-a305-232c80c204b9)
+
 
